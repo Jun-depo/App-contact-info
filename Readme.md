@@ -1,7 +1,7 @@
-If you have anything question or problem about my apps, please contact me at [mambo237@yahoo.com](mailto:mambo237@yahoo.com). Please provide me the following info: 
+If you have anything question or problem about PDFDarkTheme apps, please contact me at [mambo237@yahoo.com](mailto:mambo237@yahoo.com). Please provide me the following info: 
 
-(1) The name of the app. 
+(1) Put the name of the app in the email title like "PDFDarkTheme support". 
 
-(2) the detail description of the problem.  
+(2) The detail description of the problem or question.  
 
 I will contact you as soon as possible.
