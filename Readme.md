@@ -1,0 +1,1 @@
+If you have anything question about my apps, please contact me at mambo237@yahoo.com. Please provide me the following info: The name of the app and the detail description of the problem.  I will contact you as soon as possible 
