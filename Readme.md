@@ -9,7 +9,7 @@ The app link: https://apps.apple.com/us/app/pdfdarktheme/id6759441175
 <img src="assets/s1resize.png" alt="Screenshot" width="700" >
 
 
-***Support***
+***For Support:***
 
 If you have anything question or problem about PDFDarkTheme app, please contact me at [mambo237@yahoo.com](mailto:mambo237@yahoo.com). Please provide me the following info: 
 
