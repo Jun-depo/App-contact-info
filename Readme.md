@@ -2,6 +2,12 @@ PDFDarkTheme is a macOS-native PDF reader app. It provides true dark mode with i
 
 The app link: https://apps.apple.com/us/app/pdfdarktheme/id6759441175
 
+**Control light/darkness**
+![](assets/s3.png)
+
+**It has Light/Dark mode toggle, zoom level control, page navigation and text search** 
+![](assets/s3.png)
+
 
 
 If you have anything question or problem about PDFDarkTheme app, please contact me at [mambo237@yahoo.com](mailto:mambo237@yahoo.com). Please provide me the following info: 
